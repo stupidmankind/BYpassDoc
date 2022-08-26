@@ -8,38 +8,42 @@ API Commands
 Description
 -----------
 
-This command called function from external DLL file. Use this command to parse and extract data from a successful **HTTP Request Command**
+This command called function from external DLL file. Use this command to execute external function in a DLL file.
 
 Parameters
 ----------
 
 **DLL file path**
-	Enter or Select the path to the DLL file
+	Path to the DLL file
 
 **Class Name**
-	Select the name of the class that contains the method to be invoked. Provide the parent class name in the DLL.
+	The name of the class that contains the method to be invoked. Provide the parent class name in the DLL.
 
 **Method**
-	Select the name of the method in the class to invoke. Provide the method name in the DLL to be invoked.
-
-**Result**
-	Select the variable to receive the result. 
+	The name of the method in the class to invoke. Provide the method name in the DLL to be invoked.
 
 **Parameters**
-	Indicate the parameters (if required)
+	The parameters corresponding to the method (if required) 
 
+	.. note::
+
+	   It doesn't necessary to manully enter **Class Name**, **Method** These value will be automatically populated during **DLL file path** is specified.
 
 
 Returned Value
 --------------
-	[ReturnValue]
+
+**Result**
+	The variable to receive the result.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\API Commands\\Execute DLL\\Execute DLL.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
-	
+	- :doc:`Execute REST API <rest>`
+	- :doc:`HTTP Request <httprequest>`
+	- :doc:`HTTP Result Query <httpqueryresult>`	

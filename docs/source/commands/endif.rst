@@ -17,14 +17,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\If Commands\\End If\\End If.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Begin If <beginif>`
+	- :doc:`Else <else>`
+	- :doc:`Evaluate Statement <evaluatestatement>`
+	- :doc:`Statement Operand <statementoperand>`
+
 	

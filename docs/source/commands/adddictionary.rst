@@ -8,29 +8,33 @@ Dictionary Commands
 Description
 -----------
 
-This command Adds a key and value to a existing Dictionary. Use this command when you want to add to a dictionary
+This command adds a key and value to a existing Dictionary. Use this command when you want to add to a dictionary
 
 Parameters
 ----------
 
 **Dictionary Name**
-	Indicate Dictionary Name
+	Name of dictionary to add
 
 **Keys and Values**
-	Enter the Keys and Values required for your dictionary
+	Keys and Values to add to the dictionary
 
 
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Dictionary Commands\\Add Dictionary Item\\Add Dictionary Item.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create Dictionary <createdictionary>`
+	- :doc:`Get Dictionary Item <getdictionaryvalue>`
+	- :doc:`Load Dictionary <loaddictionary>`
+
 	

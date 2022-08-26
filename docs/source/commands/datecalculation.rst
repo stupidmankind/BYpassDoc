@@ -32,14 +32,16 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\DateTime Commands\\Date Calculation\\Date Calculation.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Format DateTime <formatdate>`
+
 	

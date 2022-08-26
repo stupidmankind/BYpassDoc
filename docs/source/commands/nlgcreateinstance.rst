@@ -20,14 +20,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\NLG Commands\\Create NLG Instance\\Create NLG Instance.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Generate NLG Phrase <nlggeneratephrase>`
+	- :doc:`Set NLG Parameter <nlgsetparameter>`
+
 	

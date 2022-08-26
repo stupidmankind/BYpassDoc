@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Window Name**
-	Input or Type the name of the window that you want to resize. e.g. \"**Untitled - Notepad**\"
+	Input or Type the name of the window that you want to resize. e.g. \"\*\*Untitled - Notepad\*\*\"
 
 **X**
 	Indicate the new required width (pixel) of the window. This number is limited by your resolution. Maximum value should be the maximum value allowed by your resolution. For 1920x1080, the valid width range could be 0-1920
@@ -26,14 +26,20 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Window Commands\\Resize Window\\Resize Window.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Activate Window <activatewindow>`
+	- :doc:`Close Window <closewindow>`
+	- :doc:`Move Window <movewindow>`
+	- :doc:`Set Window State <setwindowstate>`
+	- :doc:`Wait For Window To Exist <waitforwindow>`
+
 	

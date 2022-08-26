@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	This example demonstrates the use of **Set Variable** by add some number to the variable using compute varible.
+	Example Location:  
+		`BYpass\\Examples\\Variable Commands\\Set Variable\\Set Variable.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add To Variable <addtovariable>`
+	- :doc:`New Variable <addvariable>`
+	- :doc:`Set Variable Index <setvariableindex>`
+
 	

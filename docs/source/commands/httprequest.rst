@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\API Commands\\HTTP Request\\HTTP Request.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Execute DLL <executedll>`
+	- :doc:`Execute REST API <rest>`
+	- :doc:`HTTP Result Query <httpqueryresult>`
+
 	

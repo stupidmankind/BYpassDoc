@@ -59,14 +59,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Email Commands\\Send SMTP Email\\Send SMTP Email.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Get IMAP Mail <emailimap>`
+	- :doc:`Save Attachment <emailsaveattachment>`
+
 	

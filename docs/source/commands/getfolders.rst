@@ -23,14 +23,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Folder Operation Commands\\Get Folders\\Get Folders.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create Folder <createfolder>`
+	- :doc:`Delete Folder <deletefolder>`
+	- :doc:`Move/Copy Folder <movefolder>`
+	- :doc:`Rename Folder <renamefolder>`
+
 	

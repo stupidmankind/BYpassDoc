@@ -20,14 +20,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Invoke Code Commands\\Invoke RPA Script\\Invoke RPA Script.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Function Simple <funcsimple>`
+	- :doc:`Invoke Code <invokecode>`
+
 	

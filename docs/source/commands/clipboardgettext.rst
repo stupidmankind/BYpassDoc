@@ -20,14 +20,22 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Misc Commands\\Get Clipboard Text\\Get Clipboard Text.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add Code Comment <comment>`
+	- :doc:`Encryption Command <encryption>`
+	- :doc:`Ping Command <ping>`
+	- :doc:`Sequence Command <sequence>`
+	- :doc:`Set Clipboard Text <clipboardsettext>`
+	- :doc:`Show Message <messagebox>`
+	- :doc:`Write Line <writeline>`
+
 	

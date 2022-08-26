@@ -23,14 +23,22 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\File Operation Commands\\Wait For File\\Wait For File.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create Zip File <createzip>`
+	- :doc:`Delete File <deletefile>`
+	- :doc:`Extract File <extractfile>`
+	- :doc:`Get Files <getfiles>`
+	- :doc:`Move/Copy File <movefile>`
+	- :doc:`Rename File <renamefile>`
+	- :doc:`UnZip File <unzip>`
+
 	

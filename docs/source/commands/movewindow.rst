@@ -26,14 +26,20 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Window Commands\\Move Window\\Move Window.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Activate Window <activatewindow>`
+	- :doc:`Close Window <closewindow>`
+	- :doc:`Resize Window <resizewindow>`
+	- :doc:`Set Window State <setwindowstate>`
+	- :doc:`Wait For Window To Exist <waitforwindow>`
+
 	

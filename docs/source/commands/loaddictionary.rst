@@ -32,14 +32,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Dictionary Commands\\Load Dictionary\\Load Dictionary.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add Dictionary Item <adddictionary>`
+	- :doc:`Create Dictionary <createdictionary>`
+	- :doc:`Get Dictionary Item <getdictionaryvalue>`
+
 	

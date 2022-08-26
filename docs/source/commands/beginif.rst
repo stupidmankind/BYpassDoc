@@ -91,11 +91,15 @@ Returned Value
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\If Commands\\Begin If\\Begin If.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Else <else>`
+	- :doc:`End If <endif>`
+	- :doc:`Evaluate Statement <evaluatestatement>`
+	- :doc:`Statement Operand <statementoperand>`
 
 .. note::
 

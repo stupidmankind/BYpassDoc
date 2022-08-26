@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\FTP Commands\\FTP Delete\\FTP Delete.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`FTP Connection <ftpconnectoin>`
+	- :doc:`FTP Directory Action <ftpdirectoryaction>`
+	- :doc:`FTP File Action <ftpfileaction>`
+
 	

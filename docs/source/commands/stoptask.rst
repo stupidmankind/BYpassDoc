@@ -17,14 +17,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Task Commands\\Stop Current Task\\Stop Current Task.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Load Task <loadtask>`
+	- :doc:`Run Task <runtask>`
+	- :doc:`Unload Task <unloadtask>`
+
 	

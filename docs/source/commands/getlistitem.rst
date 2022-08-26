@@ -26,14 +26,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\List Commands\\Get List Item\\Get List Item.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create List <stringsplit>`
+	- :doc:`Get List Count <getlistcount>`
+	- :doc:`List Remove Duplicate <removeduplicatelist>`
+	- :doc:`List Remove Empty <removeemptylist>`
+
 	

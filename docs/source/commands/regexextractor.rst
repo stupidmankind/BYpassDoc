@@ -29,14 +29,16 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\RegEx Commands\\RegEx Extraction\\RegEx Extraction.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`RegEx Replace <regexreplace>`
+
 	

@@ -8,7 +8,7 @@ Excel Commands
 Description
 -----------
 
-This command allows you to find the last row in a used range in an Excel Workbook. Use this command to determine how many rows have been used in the Excel Workbook.  You can use this value in a **Number Of Times** Loop to get data.
+This command allows you to find the last row in a used range in an Excel Workbook. Use this command to determine how many rows have been used in the Excel Workbook.  You can use this value in a \*\*Number Of Times\*\* Loop to get data.
 
 Parameters
 ----------
@@ -29,14 +29,41 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Excel Commands\\Get Last Row Index\\Get Last Row Index.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add Workbook <exceladdworkbook>`
+	- :doc:`Add Worksheet <exceladdworksheet>`
+	- :doc:`Append Cell <excelappendcell>`
+	- :doc:`Append Row <excelappendrow>`
+	- :doc:`Close Workbook <excelcloseworkbook>`
+	- :doc:`Copy Worksheet <excelcopysheet>`
+	- :doc:`Delete Cell <exceldeletecell>`
+	- :doc:`Delete Row <exceldeleterow>`
+	- :doc:`Excel Create Datatable <excelcreatedataset>`
+	- :doc:`Get Cell <excelgetcell>`
+	- :doc:`Get Cell Style <excelgetcellstyle>`
+	- :doc:`Get Last Column Index <excelgetlastcolumn>`
+	- :doc:`Get Range <excelgetrange >`
+	- :doc:`Get Range As Datatable <excelgetrangeasdt>`
+	- :doc:`Get Worksheets <excelgetworksheets>`
+	- :doc:`Go To Cell <excelgotocell>`
+	- :doc:`Insert Cell <excelinsertcell>`
+	- :doc:`Lookup Range <excellookuprange>`
+	- :doc:`Open Workbook <excelopenworkbook>`
+	- :doc:`Remove Duplicate <excelremoveduplicate>`
+	- :doc:`Run Macro <excelrunmacro>`
+	- :doc:`Save Workbook <excelsave>`
+	- :doc:`Save Workbook As <excelsaveas>`
+	- :doc:`Set Range <excelsetcell>`
+	- :doc:`Write Range <excelwriterange>`
+	- :doc:`Write Row <excelwriterow>`
+
 	

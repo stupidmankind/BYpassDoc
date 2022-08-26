@@ -8,7 +8,7 @@ API Commands
 Description
 -----------
 
-This command processes an HTML source object. Use this command to parse and extract data from a successful **HTTP Request Command**
+This command processes an HTML source object. Use this command to parse and extract data from a successful \*\*HTTP Request Command\*\*
 
 Parameters
 ----------
@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\API Commands\\HTTP Result Query\\HTTP Result Query.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Execute DLL <executedll>`
+	- :doc:`Execute REST API <rest>`
+	- :doc:`HTTP Request <httprequest>`
+
 	

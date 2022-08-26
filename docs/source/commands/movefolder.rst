@@ -32,14 +32,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Folder Operation Commands\\Move/Copy Folder\\Move/Copy Folder.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create Folder <createfolder>`
+	- :doc:`Delete Folder <deletefolder>`
+	- :doc:`Get Folders <getfolders>`
+	- :doc:`Rename Folder <renamefolder>`
+
 	

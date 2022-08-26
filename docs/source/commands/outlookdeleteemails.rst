@@ -29,14 +29,21 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Outlook Commands\\Outlook Delete Emails\\Outlook Delete Emails.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Outlook Forward Emails <outlookforwardemails>`
+	- :doc:`Outlook Get Emails <outlookgetemails>`
+	- :doc:`Outlook Move/Copy Emails <outlookmoveemails>`
+	- :doc:`Outlook Reply To Emails <outlookreplytoemails>`
+	- :doc:`Outlook Save Attachments <outlooksaveattachments>`
+	- :doc:`Outlook Send Email <outlookemail>`
+
 	

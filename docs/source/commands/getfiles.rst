@@ -17,7 +17,7 @@ Parameters
 	Indicate the path to folder. This command list all files inside the folder ex. C:\\temp\\myfolder
 
 **Exclude Files**
-	Indicate the excluded files in the source folder. ex. desktop.ini,*.pdf
+	Indicate the excluded files in the source folder. ex. desktop.ini,\*.pdf
 
 **Variable Name**
 	Enter variable name to assign
@@ -26,14 +26,22 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\File Operation Commands\\Get Files\\Get Files.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create Zip File <createzip>`
+	- :doc:`Delete File <deletefile>`
+	- :doc:`Extract File <extractfile>`
+	- :doc:`Move/Copy File <movefile>`
+	- :doc:`Rename File <renamefile>`
+	- :doc:`UnZip File <unzip>`
+	- :doc:`Wait For File <waitforfiletoexist>`
+
 	

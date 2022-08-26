@@ -32,14 +32,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\CSV File Commands\\Read CSV to DataTable\\Read CSV to DataTable.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Write CSV File <csvwriteexceltocsv>`
+	- :doc:`Write CSV File(DataTable) <csvdatatabletocsv>`
+
 	

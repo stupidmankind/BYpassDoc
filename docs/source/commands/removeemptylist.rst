@@ -20,14 +20,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\List Commands\\List Remove Empty\\List Remove Empty.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Create List <stringsplit>`
+	- :doc:`Get List Count <getlistcount>`
+	- :doc:`Get List Item <getlistitem>`
+	- :doc:`List Remove Duplicate <removeduplicatelist>`
+
 	

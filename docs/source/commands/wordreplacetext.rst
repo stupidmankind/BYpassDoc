@@ -26,14 +26,24 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Word Commands\\Replace Text\\Replace Text.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Append DataTable <wordappenddatatable>`
+	- :doc:`Append Image <wordappendimage>`
+	- :doc:`Append Text <wordappendtext>`
+	- :doc:`Close Document <wordclosedocument>`
+	- :doc:`Export To PDF <wordexporttopdf>`
+	- :doc:`Open Document <wordopendocument>`
+	- :doc:`Read Document <wordreaddocument>`
+	- :doc:`Save Document <wordsave>`
+	- :doc:`Save Document As <wordsaveas>`
+
 	

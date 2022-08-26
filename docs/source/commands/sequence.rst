@@ -17,14 +17,22 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Misc Commands\\Sequence Command\\Sequence Command.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add Code Comment <comment>`
+	- :doc:`Encryption Command <encryption>`
+	- :doc:`Get Clipboard Text <clipboardgettext>`
+	- :doc:`Ping Command <ping>`
+	- :doc:`Set Clipboard Text <clipboardsettext>`
+	- :doc:`Show Message <messagebox>`
+	- :doc:`Write Line <writeline>`
+
 	

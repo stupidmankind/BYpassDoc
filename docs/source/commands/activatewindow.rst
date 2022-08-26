@@ -8,13 +8,15 @@ Window Commands
 Description
 -----------
 
-This command is used to activate the minimized window for the flow to working on.  
+This command activates a window and brings it to the front. Use this command when you want to active a window by name or bring it to attention.
 
 Parameters
 ----------
 
-**Window Name** 
-	Indicate the window name from the list. The list consists of title of all opened window.
+**Window Name**
+	The window that you want to activate
+
+
 
 Returned Value
 --------------
@@ -23,9 +25,14 @@ Returned Value
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Window Commands\\Activate Window\\Activate Window.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Close Window <closewindow>`
+	- :doc:`Move Window <movewindow>`
+	- :doc:`Resize Window <resizewindow>`
+	- :doc:`Set Window State <setwindowstate>`
+	- :doc:`Wait For Window To Exist <waitforwindow>`
 	

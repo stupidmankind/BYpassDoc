@@ -8,7 +8,7 @@ Variable Commands
 Description
 -----------
 
-This command allows you to explicitly add a variable if you are not using **Set Variable* with the setting **Create Missing Variables** at runtime. Use this command when you want to modify the value of variables.  You can even use variables to modify other variables.
+This command allows you to explicitly add a variable if you are not using \*\*Set Variable\* with the setting \*\*Create Missing Variables\*\* at runtime. Use this command when you want to modify the value of variables.  You can even use variables to modify other variables.
 
 Parameters
 ----------
@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Variable Commands\\New Variable\\New Variable.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Add To Variable <addtovariable>`
+	- :doc:`Set Variable <variable>`
+	- :doc:`Set Variable Index <setvariableindex>`
+
 	

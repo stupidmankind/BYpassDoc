@@ -23,14 +23,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\System Commands\\Environment Variable\\Environment Variable.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`OS Variable <osvariable>`
+	- :doc:`System Action <systemaction>`
+
 	

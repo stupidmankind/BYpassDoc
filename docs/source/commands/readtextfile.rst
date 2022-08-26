@@ -26,14 +26,16 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Text File Commands\\Read Text File\\Read Text File.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Write Text File <writetextfile>`
+
 	

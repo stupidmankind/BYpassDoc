@@ -32,14 +32,17 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Image Commands\\Image Recognition\\Image Recognition.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Perform OCR <ocr>`
+	- :doc:`Take Screenshot <screenshot>`
+
 	

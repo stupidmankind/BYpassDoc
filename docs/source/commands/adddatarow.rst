@@ -8,7 +8,7 @@ DataTable Commands
 Description
 -----------
 
-This command is used to add a new row to DataTable.  
+This command is used to add a new row to DataTable. Use this command to add a new data to DataTable. 
 
 Parameters
 ----------
@@ -36,5 +36,13 @@ Example Usage
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Clear DataTable <cleardatatable>`
+	- :doc:`Create DataTable <createdatatable>`
+	- :doc:`Filter DataTable <filterdatatablewithselect>`
+	- :doc:`Get DataTable Row Count <getdatarowcount>`
+	- :doc:`Get DataTable Value <getdatarowvalue>`
+	- :doc:`Json DataTable <jsontodatatable>`
+	- :doc:`Parse Dataset Row <parsedatasetrow>`
+	- :doc:`Remove DataRow <removedatarow>`
+	- :doc:`Update DataTable Value <writedatarowvalue>`
 	

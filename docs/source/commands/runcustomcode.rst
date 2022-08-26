@@ -26,14 +26,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Programs/Process Commands\\Run Custom Code\\Run Custom Code.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Run Script <runscript>`
+	- :doc:`Start Process <startprocess>`
+	- :doc:`Stop Process <stopprocess>`
+
 	

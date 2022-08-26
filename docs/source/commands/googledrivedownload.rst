@@ -23,14 +23,16 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Google Drive Commands\\Google Drive Download\\Google Drive Download.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Google Drive Upload <googledriveupload>`
+
 	

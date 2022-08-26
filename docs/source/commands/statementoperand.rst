@@ -29,14 +29,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\If Commands\\Statement Operand\\Statement Operand.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Begin If <beginif>`
+	- :doc:`Else <else>`
+	- :doc:`End If <endif>`
+	- :doc:`Evaluate Statement <evaluatestatement>`
+
 	

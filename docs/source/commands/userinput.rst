@@ -26,14 +26,21 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Input Commands\\Prompt for Input\\Prompt for Input.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Prompt for HTML Input <htmlinput>`
+	- :doc:`Send Advanced Keystrokes <sendadvancedkeystrokes>`
+	- :doc:`Send Hotkey <sendhotkey>`
+	- :doc:`Send Keystrokes <sendkeys>`
+	- :doc:`Send Mouse Click <sendmouseclick>`
+	- :doc:`Send Mouse Move <sendmousemove>`
+
 	

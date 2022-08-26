@@ -20,14 +20,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Task Commands\\Load Task\\Load Task.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Run Task <runtask>`
+	- :doc:`Stop Current Task <stoptask>`
+	- :doc:`Unload Task <unloadtask>`
+
 	

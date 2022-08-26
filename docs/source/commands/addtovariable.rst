@@ -23,14 +23,18 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Variable Commands\\Add To Variable\\Add To Variable.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`New Variable <addvariable>`
+	- :doc:`Set Variable <variable>`
+	- :doc:`Set Variable Index <setvariableindex>`
+
 	

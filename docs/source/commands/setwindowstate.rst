@@ -23,14 +23,20 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\Window Commands\\Set Window State\\Set Window State.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Activate Window <activatewindow>`
+	- :doc:`Close Window <closewindow>`
+	- :doc:`Move Window <movewindow>`
+	- :doc:`Resize Window <resizewindow>`
+	- :doc:`Wait For Window To Exist <waitforwindow>`
+
 	

@@ -23,14 +23,19 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\PDF Commands\\Merge PDFs\\Merge PDFs.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Export PDF <exportpdf>`
+	- :doc:`Manage PDF Password <pdfproctectpassword>`
+	- :doc:`PDF Extraction <pdftextextraction>`
+	- :doc:`PDF OCR <pdfocr>`
+
 	

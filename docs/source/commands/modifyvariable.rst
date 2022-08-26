@@ -23,14 +23,26 @@ Parameters
 
 Returned Value
 --------------
-	[ReturnValue]
+	This command does not have returned value.
 
 Example Usage
 -------------
 
-	Download Example from ...
+	Example Location:  
+		`BYpass\\Examples\\String Commands\\Modify String\\Modify String.xml`
 
 See Also
 --------
-	:doc:`Usage <../usage>`
+	- :doc:`Concat Text <stringconcat>`
+	- :doc:`Contains Text <stringcontains>`
+	- :doc:`Format String <formatstring>`
+	- :doc:`Get Word Count <getwordcount>`
+	- :doc:`Get Word Length <getwordlength>`
+	- :doc:`String Operation <stringoperation>`
+	- :doc:`String Replace <stringreplace>`
+	- :doc:`StringIsNullOrEmpty <stringisnullorempty>`
+	- :doc:`Substring <stringsubstring>`
+	- :doc:`Text Extraction <textextractor>`
+	- :doc:`Trim Text <stringtrim>`
+
 	
