@@ -13,7 +13,7 @@ This command is used to activate the minimized window for the flow to working on
 Parameters
 ----------
 
-*Window Name* 
+**Window Name** 
 	Indicate the window name from the list. The list consists of title of all opened window.
 
 Returned Value

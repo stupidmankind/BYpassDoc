@@ -1,0 +1,39 @@
+Start Process
+=============
+
+Category
+--------
+Programs/Process Commands
+
+Description
+-----------
+
+This command allows you to start a program or a process. Use this command to start applications by entering their name such as 'chrome.exe' or a fully qualified path to a file 'c:/some.exe'
+
+Parameters
+----------
+
+**Program Name**
+	Enter the name or path to the program (ex. notepad, calc)
+
+**Program Arguments**
+	Enter the any arguments if required
+
+**Wait For Exit**
+	Wait for the process to complete?
+
+
+
+Returned Value
+--------------
+	[ReturnValue]
+
+Example Usage
+-------------
+
+	Download Example from ...
+
+See Also
+--------
+	:doc:`Usage <../usage>`
+	

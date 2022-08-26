@@ -14,7 +14,7 @@ This command is used to make the decision within the flow by evaluate the statem
 Parameters
 ----------
 
-*If Action* 
+**If Action**
 	Indicate the action type of the if command. **Begin If** supports following types of actions
 
 	+------------------------------+-------------------------------------------------+
@@ -41,7 +41,7 @@ Parameters
 	| Custom                       | Write custom using programming literature       |
 	+------------------------------+-------------------------------------------------+
 
-*Condition*
+**Condition**
 	This setting is based on **If Action**. Setting this parameter to compare *Value1* (value on the left) 
 	to *Value2* (value on the right) with following operands.
 	

@@ -1,28 +1,37 @@
-Activate Window
-===============
+Add Data Row
+============
 
 Category
 --------
-Window Commands
+DataTable Commands
 
 Description
 -----------
 
-This command is used to activate the minimized window for the flow to working on.  
+This command is used to add a new row to DataTable.  
 
 Parameters
 ----------
 
-*Window Name* 
-	Indicate the window name from the list. The list consists of title of all opened window.
+**DataTable Name**
+	The name of DataTable to add a new data row.
 
+**Data**
+	A new row to be added. This parameter consists of two sub parameters.
+	
+	*Column* 
+		is the column name of the input DataTable as specified by **DataTable Name** parameter
+	
+	*Data* 
+		is the data of corresponding column 
+	
 Returned Value
 --------------
 	This command does not have returned value.
 
 Example Usage
 -------------
-
+	In this example, ...
 	Download Example from ...
 
 See Also
