@@ -13,10 +13,9 @@ how to :doc:`install <installation>` the software.
 
    This project is under active development.
 
-Contents
---------
 
 .. 	toctree::
+	:hidden:
 
 	gettingstart
 	design

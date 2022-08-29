@@ -8,22 +8,22 @@ Variable Commands
 Description
 -----------
 
-This command allows you to modify variables. Use this command when you want to modify the value of variables.  You can even use variables to modify other variables.
+This command allows you to add another value to a variable. Use this command when you want to turn a variable to hold multiple values. Access to the value will need an index to indicate For example, a variable {vVal} has value "hello". By using this command to add "world", {vVal} will hold "hello" at {vVal.0} and "world" at {vVal.1} 
 
 Parameters
 ----------
 
 **Variable Name**
-	Enter variable name to modify
+	Variable name to modify
 
 **Variable Value**
-	Please define the input to be added to the variable
+	The input to be added to the variable
 
 
 
 Returned Value
 --------------
-	This command does not have returned value.
+	This command does not have returned value but new value will be added to the variable.
 
 Example Usage
 -------------
