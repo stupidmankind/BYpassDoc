@@ -1,13 +1,7 @@
 Welcome to BYpass's documentation!
 ===================================
 
-**BYpass** is a RPA software developped by Backyard.
-
-Check out the :doc:`usage` section for further information, including
-how to :doc:`install <installation>` the software.
-
-	
-	
+**BYpass** is a RPA software developped by Backyard. BYpass is developed by to make automation easy for everyone. It can use on a simple task to a very complex tasks. Let's get to know the software!
 
 .. note::
 
@@ -15,8 +9,8 @@ how to :doc:`install <installation>` the software.
 
 
 .. 	toctree::
-	:hidden:
-
+	:maxdepth: 2
+	
 	gettingstart
 	design
 	usage

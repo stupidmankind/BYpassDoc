@@ -8,25 +8,29 @@ Variable Commands
 Description
 -----------
 
-This command allows you to explicitly add a variable if you are not using \*\*Set Variable\* with the setting \*\*Create Missing Variables\*\* at runtime. Use this command when you want to modify the value of variables.  You can even use variables to modify other variables.
+This command allows you to explicitly add a variable if you are not using :doc:`Set Variable <variable>` with the setting **Create Missing Variables** at runtime. Use this command when you want to create a new variable.
 
 Parameters
 ----------
 
 **Variable Name**
-	Indicate Variable Name
+	Name of Variable
 
 **Variable Value**
-	Please define the input to be added to the variable
+	The input to be added to the variable
 
 **If Variable Exists**
-	Define the action to take if the variable already exists
+	Define the action to take if the variable already exists. There are three actions if variable exists
+
+	- *Do Nothing If Variable Exists*
+	- *Error If Variable Exists* 
+	- *Replace If Variable Exists*	
 
 
 
 Returned Value
 --------------
-	This command does not have returned value.
+	This command return a new variable as indicate in **Variable Name**.
 
 Example Usage
 -------------

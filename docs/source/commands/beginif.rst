@@ -8,7 +8,7 @@ If Commands
 Description
 -----------
 
-This command is used to make the decision within the flow by evaluate the statement. The command under if block will be exeucted if the statement is true.
+This command is used to make the decision within the script by evaluate the statement. The command under if block will be exeucted if the statement is true.
 
 
 Parameters
