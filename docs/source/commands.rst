@@ -32,6 +32,7 @@ Command References
 	Programs/Process Commands <ProgramsProcessCommands>
 	RegEx Commands <RegExCommands>
 	Remote Commands <RemoteCommands>
+	SAP Commands <SAPCommands>
 	String Commands <StringCommands>
 	System Commands <SystemCommands>
 	Task Commands <TaskCommands>

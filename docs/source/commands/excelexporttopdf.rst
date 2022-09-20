@@ -1,5 +1,5 @@
-Insert Cell
-===========
+Excel Export To PDF
+===================
 
 Category
 --------
@@ -8,7 +8,7 @@ Excel Commands
 Description
 -----------
 
-This command allows you to insert a specified cell in Excel. Use this command when you want to insert a specific cell from the current sheet.
+This command allows you to export a excel to a PDF. Use this command when you want to save a excel to a PDF.
 
 Parameters
 ----------
@@ -16,26 +16,20 @@ Parameters
 **Instance Name**
 	Enter the instance name
 
-**Sheet Name**
-	Indicate the name of the sheet within the Workbook to activate
-
-**Range**
-	Indicate the range to insert ex. A1 or A1:C1
-
-**Shift Direction**
-	Should the cells below shift after insert?
+**PDF Path**
+	Enter the path to the destination File
 
 
 
 Returned Value
 --------------
-	This command does not have returned value.
+	[ReturnValue]
 
 Example Usage
 -------------
 
 	Example Location:  
-		`BYpass\\Examples\\Excel Commands\\Insert Cell\\Insert Cell.xml`
+		`BYpass\\Examples\\Excel Commands\\Excel Export To PDF\\Excel Export To PDF.xml`
 
 See Also
 --------
@@ -57,6 +51,7 @@ See Also
 	- :doc:`Get Range As Datatable <excelgetrangeasdt>`
 	- :doc:`Get Worksheets <excelgetworksheets>`
 	- :doc:`Go To Cell <excelgotocell>`
+	- :doc:`Insert Cell <excelinsertcell>`
 	- :doc:`Lookup Range <excellookuprange>`
 	- :doc:`Open Workbook <excelopenworkbook>`
 	- :doc:`Remove Duplicate <excelremoveduplicate>`
@@ -67,4 +62,5 @@ See Also
 	- :doc:`Write Range <excelwriterange>`
 	- :doc:`Write Row <excelwriterow>`
 
+	
 	

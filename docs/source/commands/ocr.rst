@@ -22,6 +22,13 @@ Parameters
 **Variable Name**
 	Enter variable name to store OCR result
 
+**Preserve Structure**
+	Preserve Structure when performing OCR
+
+**PDF Output**
+	Path to save OCR result. The output filename will be the same as Source File e.g. {Folder.ScriptPath}
+
+
 
 
 Returned Value

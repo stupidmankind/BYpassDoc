@@ -47,6 +47,7 @@ See Also
 	- :doc:`Copy Worksheet <excelcopysheet>`
 	- :doc:`Delete Row <exceldeleterow>`
 	- :doc:`Excel Create Datatable <excelcreatedataset>`
+	- :doc:`Export to PDF <excelexporttopdf>`
 	- :doc:`Get Cell <excelgetcell>`
 	- :doc:`Get Cell Style <excelgetcellstyle>`
 	- :doc:`Get Last Column Index <excelgetlastcolumn>`
