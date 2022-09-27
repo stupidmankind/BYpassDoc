@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **Save on Exit**
 	Indicate if the Workbook should be saved
