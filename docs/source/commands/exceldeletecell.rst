@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
@@ -23,7 +23,13 @@ Parameters
 	Indicate the range to delete ex. A1 or A1:C1
 
 **Shift Direction**
-	Should the cells below shift after deletion?
+	Choose how the cells shift after deletion 
+	- None: delete value in the selected cell
+	- Up: delete value and shift the below cells up
+	- Left: delete value and shift cells left
+	- Entire row: delete value entire row
+	- Entire column: delete value entire column
+
 
 
 
