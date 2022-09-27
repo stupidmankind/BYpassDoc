@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook
 
 **Sheet Name**
-	Enter the sheet name
+	Indicate the name of the sheet to add  
 
 
 
