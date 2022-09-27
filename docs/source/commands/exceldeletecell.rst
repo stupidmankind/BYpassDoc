@@ -24,11 +24,11 @@ Parameters
 
 **Shift Direction**
 	Choose how the cells shift after deletion 
-	- None: delete value in the selected cell
-	- Up: delete value and shift the below cells up
-	- Left: delete value and shift cells left
-	- Entire row: delete value entire row
-	- Entire column: delete value entire column
+		None: delete value in the selected cell
+		Up: delete value and shift the below cells up
+		Left: delete value and shift cells left
+		Entire row: delete value entire row
+		Entire column: delete value entire column
 
 Returned Value
 --------------
