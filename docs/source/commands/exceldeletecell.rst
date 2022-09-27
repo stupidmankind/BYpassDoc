@@ -30,9 +30,6 @@ Parameters
 	- Entire row: delete value entire row
 	- Entire column: delete value entire column
 
-
-
-
 Returned Value
 --------------
 	This command does not have returned value.
