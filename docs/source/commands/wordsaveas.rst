@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected document
 
 **File Path**
-	Enter the path to the file
+	Indicate the location of the file
 
 
 
