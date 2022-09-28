@@ -14,16 +14,21 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
 
 **Range**
-	Indicate the range to insert ex. A1 or A1:C1
+	Indicate the range to insert (ex. A1 or A1:C1)
 
 **Shift Direction**
-	Should the cells below shift after insert?
+	Choose how the cells below shift after insert
+	
+	- Down: insert value and shift cells down
+	- Right: insert value and shift cells right
+	- Entire row: insert value entire row
+	- Entire column: insert value entire column
 
 
 
