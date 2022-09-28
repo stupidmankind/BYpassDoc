@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected document
 
 **Save On Exit**
 	Indicate if the Document should be savede
