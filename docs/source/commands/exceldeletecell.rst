@@ -23,12 +23,13 @@ Parameters
 	Indicate the range to delete ex. A1 or A1:C1
 
 **Shift Direction**
-	Choose how the cells shift after deletion 
-		None: delete value in the selected cell
-		Up: delete value and shift the below cells up
-		Left: delete value and shift cells left
-		Entire row: delete value entire row
-		Entire column: delete value entire column
+	Choose how the cells shift after deletion
+
+	- None: delete value in the selected cell
+	- Up: delete value and shift the below cells up
+	- Left: delete value and shift cells left
+	- Entire row: delete value entire row
+	- Entire column: delete value entire column
 
 Returned Value
 --------------
