@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
 
 **Range**
-	Indicate the range to delete ex. A1 or A1:C1
+	Indicate the range to delete (ex. A1 or A1:C1)
 
 **First Row is Header**
 	Select Yes will exclude the first row from the output
