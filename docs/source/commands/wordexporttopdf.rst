@@ -14,11 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the location of the file
 
 **PDF Path**
-	Enter the path to the file
-
+	Indicate the location of the file
 
 
 Returned Value
