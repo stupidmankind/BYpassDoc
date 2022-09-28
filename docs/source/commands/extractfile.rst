@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Archive File**
-	Enter the file location ex. C:\temp\myfile.zip
+	Enter the file location (ex. C:\temp\myfile.zip)
 
 **Extract Folder**
-	Indicate the extraction folder ex. C:\\temp\\myzip\\
+	Indicate the extraction folder (ex. C:\\temp\\myzip\\)
 
 **Password**
 	Indicate the archive password
