@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook
 
 **Sheet Name**
-	Enter the sheet name
+	Indicate the name of the sheet within the Workbook to activate
 
 **File Name**
 	Indicate the location of the file
 
 **Visible**
-	Set to No will open Excel in background
+	Set to [No] will open Excel in background
 
 
 
