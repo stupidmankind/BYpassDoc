@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected document
 
 **Replacement Text**
 	Enter the old value of the text that will be replaced
