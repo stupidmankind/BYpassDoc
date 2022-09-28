@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **File Name**
 	Indicate the location of the file
