@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
@@ -23,7 +23,13 @@ Parameters
 	Enter the Cell Location (ex. A1 or B2)
 
 **Type of style**
-	Specify type of style.
+	Select type of style
+
+	- Background Color: Get cell style to a background color
+	- Font Name: Get cell style to a font name
+	- Font Size: Get cell style to a font size
+	- Font Italic: Get cell style to a font italic
+	- Font Underline: Get cell style to a font underline
 
 **Variable**
 	Assign result to variable
