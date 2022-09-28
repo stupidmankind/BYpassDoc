@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook
 
 **Macro Name**
-	Enter the macro name
+	Enter the macro name 
 
 **Parameters**
 	Enter the parameter attributes
