@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name to indicate the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
 
 **Range**
-	Indicate the range to delete ex. A1 or A1:C1
+	Indicate the range to delete. (ex. A1 or A1:C1)
 
 **Delimiter**
-	Enter the Delimiter. Default is comma. ex \|,!,@ or COMMA
+	Enter the Delimiter. Default is comma. (ex. \|,!,@ or COMMA)
 
 **Include First Row**
 	Select Yes if you want to include the first row in the output
