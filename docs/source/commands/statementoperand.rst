@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Conditional Variable 1**
-	Please enter the conditional variable 1
+	Enter the conditional variable 1
 
 **Operand**
-	Select the operand.
+	Select the operand
 
 **Conditional Variable 2**
-	Please enter the conditional variable 2
+	Enter the conditional variable 2
 
 **Variable Name**
 	Indicate Variable Name
