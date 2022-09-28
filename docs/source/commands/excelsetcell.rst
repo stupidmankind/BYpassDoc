@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook
 
 **Range**
 	Enter the Cell Location (ex. A1 or B2)
@@ -32,7 +32,7 @@ Parameters
 	Select Font name from the list
 
 **Font Size**
-	Enter the font size
+	Enter the font size to set size
 
 **Font Color**
 	Choose the font color
