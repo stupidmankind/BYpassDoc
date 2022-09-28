@@ -12,7 +12,7 @@ This command declares the seperation between the actions based on the 'true' or 
 
 Parameters
 ----------
-
+	Command without parameter
 
 
 Returned Value
