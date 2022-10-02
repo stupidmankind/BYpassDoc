@@ -12,7 +12,7 @@ This command allows you to add an in-line comment to the script. Use this comman
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
