@@ -15,7 +15,7 @@ Parameters
 ----------
 
 **If Action**
-	Indicate the action type of the if command. **Begin If** supports following types of actions
+	Indicate the action type of the if command. **Begin If** supports following types of actions.
 
 	+------------------------------+-------------------------------------------------+
 	| If Action                    | Description                                     |
