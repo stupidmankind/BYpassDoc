@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Hose Name**
-	Enter ip address or host name that you want to ping
+	Indicate ip address or host name that you want to ping.
 
 **Result**
 	Select the variable to receive the result. 
