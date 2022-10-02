@@ -14,28 +14,28 @@ Parameters
 ----------
 
 **PDF File**
-	Enter the source pdf file to protect password ex. C:\temp\myfile1.pdf
+	Indicate the source pdf file to protect password, e.g., C:\temp\myfile1.pdf.
 
 **Password**
-	Enter the password
+	Indicate the password.
 
 **PDF Output File**
-	Indicate the result file (ex. C:\\temp\\myzip\\mypdf.pdf
+	Indicate the result file, e.g., C:\\temp\\myzip\\mypdf.pdf.
 
 **Use Encrypted Password**
-	Select Yes if password in PDF is encrypted
+	Select Yes if password in PDF is encrypted.
 
 **Use Annotations**
-	Select Yes if permits commenting the document
+	Select Yes if permits commenting the document.
 
 **Use Extract Content**
-	Select Yes if permits content copying or extraction
+	Select Yes if permits content copying or extraction.
 
 **Use Forms Fill**
 	Select Yes if permits filling of form fields.
 
 **Use Full Quality Print**
-	Select Yes if permits to print in high quality
+	Select Yes if permits to print in high quality.
 
 **Use Modify Document**
 	Select Yes if permits modifying the document.
