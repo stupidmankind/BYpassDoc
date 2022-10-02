@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **DataTable name**
-	Indicate the DataTable name
+	Indicate the DataTable name.
 
 **Encoding**
 	Specify Encoding.
 
 **CSV File**
-	Indicate the path to the CSV file
+	Indicate the path to the CSV file.
 
 
 
