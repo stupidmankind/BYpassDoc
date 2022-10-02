@@ -17,19 +17,19 @@ Parameters
 	Select the path to the applicable file or enter file URL.
 
 **Extraction Type**
-	Raw - extract as copy/paste, Normal - normal extraction, Layout - maintain the layout
+	Raw - extract as copy/paste, Normal - normal extraction, Layout - maintain the layout.
 
 **Page Start**
-	Start extract at Page Number. Leave it blank to start from the first page
+	Start extract at Page Number. Leave it blank to start from the first page.
 
 **Page End**
-	End extract at Page Number. Leave it blank to end at the last page
+	End extract at Page Number. Leave it blank to end at the last page.
 
 **Remove Diagonal Text**
-	Set to yes to exclude the diagonal text
+	Set to yes to exclude the diagonal text.
 
 **Character Code**
-	Set the character code
+	Set the character code.
 
 **Leave the output file**
 	This command will generate an output file in .txt with the same name as pdf and save in the same location of the original pdf file. Set this to NO, the file will be deleted.
