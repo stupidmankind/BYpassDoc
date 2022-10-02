@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **List Name**
-	Enter List Name
+	Indicate list name to get an item from a List.
 
 **List Index**
-	Enter the index of the List ex. 0 or {vIndex}
+	Indicate the index of the List, e.g., 0 or {vIndex}.
 
 **Variable Name**
-	Enter variable name to receive output
+	Indicate variable name to receive output.
 
 
 
