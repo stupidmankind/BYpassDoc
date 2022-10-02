@@ -12,7 +12,7 @@ This command allows you to define actions that should occur after encountering a
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
