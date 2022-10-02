@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Excel File**
-	Indicate the path to the Excel file
+	Indicate the path to the Excel file.
 
 **CSV File**
-	Indicate the path to the CSV file
+	Indicate the path to the CSV file.
 
 
 
