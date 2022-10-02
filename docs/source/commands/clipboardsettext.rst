@@ -8,13 +8,13 @@ Misc Commands
 Description
 -----------
 
-This command allows you to set text to the clipboard. Use this command when you want to copy the data from the clipboard and apply it to a variable.  You can then use the variable to extract the value.
+This command allows you to set text to the clipboard. Use this command when you want to copy the data from the clipboard and apply it to a variable. You can then use the variable to extract the value.
 
 Parameters
 ----------
 
 **Text**
-	Enter text to save to clipboard
+	Indicate text to save to clipboard.
 
 
 
