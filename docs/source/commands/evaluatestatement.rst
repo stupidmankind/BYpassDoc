@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Statement Type**
-	Please select type of Statement to evaluate
+	Select type of statement to evaluate.
 
 **Condition**
-	Select the required comparison parameters
+	Select the required comparison parameters.
 
 **Variable Name**
-	Indicate Variable Name
+	Indicate Variable Name.
 
 
 
