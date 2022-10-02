@@ -8,11 +8,11 @@ If Commands
 Description
 -----------
 
-This command signifies the exit point of If actions. Required for all Begin Ifs. Use this command when you want to signify the exit point of your if scenario
+This command signifies the exit point of If actions. Required for all Begin Ifs. Use this command when you want to signify the exit point of your if scenario.
 
 Parameters
 ----------
-	Command without parameter
+	Command without parameter.
 
 
 Returned Value
