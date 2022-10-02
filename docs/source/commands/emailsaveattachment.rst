@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Message Variable**
-	Please Enter the IMAP email variable
+	The MailMessage object or IMAP email whose attachments are to be saved.
 
 **Attachments Save Folder**
-	Please specify the folder name
+	The full path of the folder where the attachments are to be saved.
 
 
 
