@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Variable Name**
-	Enter the list variable to be looped
+	Indicate the list variable to be looped.
 
 
 
