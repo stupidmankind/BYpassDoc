@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **List Name**
-	Enter List Name
+	Indicate list name to get the item count of a List.
 
 **Variable Name**
-	Enter variable name to assign
+	Indicate variable name to assign.
 
 
 
