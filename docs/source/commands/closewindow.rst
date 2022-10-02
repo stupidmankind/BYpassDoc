@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Window Name**
-	Select the window that you want to close
+	Select the window that you want to close.
 
 
 
