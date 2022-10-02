@@ -8,22 +8,22 @@ Misc Commands
 Description
 -----------
 
-This command handles text encryption. Use this command when you want to store some data encrypted
+This command handles text encryption. Use this command when you want to store some data encrypted.
 
 Parameters
 ----------
 
 **Encryption Action**
-	Select Encryption Action
+	Select Encryption Action.
 
 **Input Value**
-	Supply the data or variable (ex. {someVariable})
+	Supply the data or variable, e.g., ex. {someVariable}.
 
 **Pass Phrase**
-	Provide a Pass Phrase. Select or provide a variable or json array value
+	Provide a pass phrase. Select or provide a variable or json array value.
 
 **Output Value**
-	Select the variable to receive the encrypted data
+	Select the variable to receive the encrypted data.
 
 
 
