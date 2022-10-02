@@ -12,7 +12,7 @@ This command signifies the current loop should exit and resume work past the poi
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
