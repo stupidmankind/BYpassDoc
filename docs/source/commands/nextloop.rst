@@ -8,11 +8,11 @@ Loop Commands
 Description
 -----------
 
-This command enables user to break and exit from the current loop. Use this command when you want to break from the current loop
+This command enables user to break and exit from the current loop. Use this command when you want to break from the current loop.
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
