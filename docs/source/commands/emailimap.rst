@@ -14,40 +14,40 @@ Parameters
 ----------
 
 **Mail Server**
-	Please Enter the mail server
+	Indicate the mail server.
 
 **Port**
-	Please Enter the server port
+	Indicate the server port.
 
 **Email Name**
-	Please Enter the email name
+	Indicate the email name.
 
 **Password**
-	Please Enter the email password
+	Indicate the email password.
 
 **Use Encrypted Password**
-	Select Yes if password in MySQL Password box is encrypted
+	Select Yes if password in MySQL Password box is encrypted.
 
 **Mailbox Name**
-	Please Enter the mailbox name e.g. inbox
+	Indicate the mailbox name, e.g., inbox.
 
 **Text Search**
-	Please Enter the text search
+	Indicate the text search.
 
 **Only Unread Message**
-	Please indicate to get only unread message
+	Indicate to get only unread message.
 
 **Delivery Before**
-	Please indicate the delivery date before
+	Indicate the delivery date before.
 
 **Delivery After**
-	Please indicate the delivery date after
+	Indicate the delivery date after.
 
 **Limit**
-	Please Enter the number of mail message
+	Indicate the number of mail message.
 
 **Output Variable**
-	Please Enter the output variable name
+	Indicate the output variable name.
 
 
 
