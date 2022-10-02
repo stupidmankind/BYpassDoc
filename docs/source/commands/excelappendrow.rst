@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name to indicate the selected workbook
+	Indicate the instance name for the selected workbook
 
 **Sheet Name**
 	Indicate the name of the sheet within the Workbook to activate
