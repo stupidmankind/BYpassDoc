@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Message**
-	Enter the message to be displayed
+	Indicate the message to be displayed.
 
 **All Elements**
-	Set to Yes, it will display all elements. Set to No especially in loop, it will display only current element
+	Set to Yes, it will display all elements. Set to No especially in loop, it will display only current element.
 
 **Close After**
-	Close After X (Seconds) - 0 to bypass
+	Close After X (Seconds) - 0 to bypass.
 
 
 
