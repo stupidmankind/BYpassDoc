@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Loop Action**
-	Please select type of Loop Command
+	Select type of loop command.
 
 **Condition**
 	Select the required comparison parameters.
