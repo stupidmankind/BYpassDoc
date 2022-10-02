@@ -14,19 +14,19 @@ Parameters
 ----------
 
 **CSV File**
-	Indicate the path to the CSV file
+	Indicate the path to the CSV file.
 
 **Has Header**
-	Indicate if data has header
+	Indicate if data has header.
 
 **Skip Rows**
-	Indicate the number of first N rows to skip
+	Indicate the number of first N rows to skip.
 
 **Delimiter**
-	Indicate the Delimiter
+	Indicate the delimiter.
 
 **DataTable name**
-	Indicate the DataTable name
+	Indicate the datatable name.
 
 
 
