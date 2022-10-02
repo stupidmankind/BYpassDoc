@@ -8,16 +8,16 @@ Variable Commands
 Description
 -----------
 
-This command allows you to add another value to a variable. Use this command when you want to turn a variable to hold multiple values. Access to the value will need an index to indicate For example, a variable {vVal} has value "hello". By using this command to add "world", {vVal} will hold "hello" at {vVal.0} and "world" at {vVal.1} 
+This command allows you to add another value to a variable. Use this command when you want to turn a variable to hold multiple values. Access to the value will need an index to indicate For example, a variable {vVal} has value "hello". By using this command to add "world", {vVal} will hold "hello" at {vVal.0} and "world" at {vVal.1}. 
 
 Parameters
 ----------
 
 **Variable Name**
-	Variable name to modify
+	Variable name to modify.
 
 **Variable Value**
-	The input to be added to the variable
+	The input to be added to the variable.
 
 
 
