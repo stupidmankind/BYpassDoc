@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **File**
-	Indicate the path to the file
+	Indicate the path to the file.
 
 **Read Option**
-	Select the read type
+	Select the read type.
 
 **Result**
-	Indicate the variable to receive the result
+	Indicate the variable to receive the result.
 
 
 
