@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **PDF File**
-	Enter the source pdf file to export (ex. C:\temp\myfile1.pdf)
+	Indicate the source pdf file to export, e.g., C:\\temp\\myfile1.pdf.
 
 **PDF Page List**
-	Enter the page list and separate by , and - (ex. 1-3,4,5)
+	Enter the page list and separate by , and - , e.g., 1-3,4,5.
 
 **Result PDF File**
-	Indicate the result file (ex. C:\\temp\\myzip\\mypdf.pdf)
+	Indicate the result file, e.g., C:\\temp\\myzip\\mypdf.pdf.
 
 
 
