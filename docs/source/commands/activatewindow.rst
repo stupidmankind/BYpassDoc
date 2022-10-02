@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Window Name**
-	The window that you want to activate
+	The window that you want to activate.
 
 
 
