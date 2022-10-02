@@ -8,22 +8,22 @@ PDF Commands
 Description
 -----------
 
-This command allows you to covert a scanned pdf file into text . Use this command when you want to convert scanned pdf file into text.  You can then use additional commands to parse the data.
+This command allows you to covert a scanned pdf file into text. Use this command when you want to convert scanned pdf file into text. You can then use additional commands to parse the data.
 
 Parameters
 ----------
 
 **PDF File**
-	Enter or Select the path to the pdf file.
+	Indicate or Select the path to the pdf file.
 
 **Page Start**
-	Start extract at Page Number. Leave it blank to start from the first page
+	Start extract at Page Number. Leave it blank to start from the first page.
 
 **Page End**
-	End extract at Page Number. Leave it blank to end at the last page
+	End extract at page number. Leave it blank to end at the last page.
 
 **Language**
-	Text Language to perform OCR
+	Text language to perform OCR.
 
 **Result**
 	Select the variable to receive the result. 
