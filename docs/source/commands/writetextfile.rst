@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **File Path**
-	Enter the path to the file
+	Indicate the path to the file.
 
 **Text**
 	Indicate the text to be written. {CRLF} inserts a newline.
 
 **Option**
-	Indicate whether this command should append the text to or overwrite all existing text in the file
+	Indicate whether this command should append the text to or overwrite all existing text in the file.
 
 
 
