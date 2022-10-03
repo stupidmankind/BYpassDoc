@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **File**
-	Enter the path to the file
+	Indicate the path to the file.
 
 **Wait Time**
-	Indicate how many seconds to wait for the file to exist
+	Indicate how many seconds to wait for the file to exist.
 
 
 
