@@ -14,40 +14,40 @@ Parameters
 ----------
 
 **Host Name**
-	Enter the host name e.g. smtp.gmail.com 
+	The email server host that is to be used, e.g., smtp.gmail.com.
 
 **Port**
-	Define the port number that should be used when contacting the SMTP service
+	Define the port number that should be used when contacting the SMTP service.
 
 **User Name**
-	Enter the username
+	The username used to send the message.
 
 **Password**
-	Please Enter the email password
+	The password of the email account used to send the message.
 
 **Encrypted Password**
-	Select Yes if password is encrypted
+	Select Yes if password is encrypted.
 
 **From Email**
-	Specify how the 'From' field should appear. e.g. myRobot@company.com
+	Specify how the 'From' field should appear, e.g., myRobot@company.com.
 
 **To Email**
-	Specify the destination email that should be addressed. e.g. test@test.com
+	Specify the destination email that should be addressed, e.g., test@test.com.
 
 **Subject**
-	Enter the subject you want sent in your Email
+	The subject of the email message.
 
 **Body**
-	Enter the email body you want on your email to be sent.
+	The body of the email message.
 
 **Mail Type**
 	Select email type you want to send.
 
 **Images**
-	Enter the Filepath of the pictures you want to insert. For multiple images, use comma to separate e.g. c:\\sales reports\\fy06q4.jpg,c:\\sales reports\\fy06q5.jpg
+	The Images to be added to the email message. For multiple images, use comma to separate, e.g., c:\\sales reports\\fy06q4.jpg,c:\\sales reports\\fy06q5.jpg.
 
 **Attachment**
-	Enter the Filepath of the file you want attached. e.g. c:sales reports\fy06q4.xlsx
+	The attachments to be added to the email message, e.g., c:sales reports\fy06q4.xlsx.
 
 **SSL**
 	Indicate if SSL should be used
