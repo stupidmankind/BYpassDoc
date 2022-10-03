@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Source Folder**
-	Indicate the path to folder. This command list all files inside the folder ex. C:\\temp\\myfolder
+	Indicate the path to folder. This command list all files inside the folder, e.g., C:\\temp\\myfolder.
 
 **New Name**
-	Enter the new folder name
+	Indicate the new folder name.
 
 
 
