@@ -8,16 +8,16 @@ String Commands
 Description
 -----------
 
-This command the specified string is null or an empty string. Use this command when simultaneously test whether a String is null or its value is String.Empty
+This command the specified string is null or an empty string. Use this command when simultaneously test whether a String is null or its value is String.Empty.
 
 Parameters
 ----------
 
 **Variable Input Name**
-	Supply the value or variable to check for Null or Empty (ex. {vSomeVariable})
+	Supply the value or variable to check for Null or Empty, e.g., {vSomeVariable}.
 
 **Result**
-	Enter variable name to store result
+	Indicate variable name to store result.
 
 
 
