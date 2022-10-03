@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Path to Folder**
-	Indicate the directory for the new folder
+	Indicate the directory for the new folder.
 
 
 
