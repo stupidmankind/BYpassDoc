@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **List Name**
-	Enter List Name
+	Indicate list name to remove duplicate in a List.
 
 
 
