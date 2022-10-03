@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Window Name**
-	Select the window that you want to activate
+	Select the window that you want to activate.
 
 **Wait Time**
-	Indicate how many seconds to wait for the file to exist
+	Indicate how many seconds to wait for the file to exist.
 
 
 
