@@ -8,22 +8,22 @@ String Commands
 Description
 -----------
 
-This command allows you to perform advanced string extraction. Use this command when you want to extract a piece of text from a larger text or variable
+This command allows you to perform advanced string extraction. Use this command when you want to extract a piece of text from a larger text or variable.
 
 Parameters
 ----------
 
 **Text**
-	Select text or variable to extract
+	Select text or variable to extract.
 
 **Extraction Type**
 	Select the type of extraction that is required.
 
 **Extraction Parameters**
-	Please Enter the parameter attributes
+	Indicate the parameter attributes.
 
 **Result**
-	Indicate the variable to receive the result
+	Indicate the variable to receive the result.
 
 
 
