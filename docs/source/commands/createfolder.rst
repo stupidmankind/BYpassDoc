@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Folder Name**
-	Indicate the name of the new folder
+	Indicate the name of the new folder.
 
 **Path to Folder**
-	Indicate the directory for the new folder
+	Indicate the directory for the new folder.
 
 **Delete Existing**
-	Delete folder if it already exists
+	Delete folder if it already exists.
 
 
 
