@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Path to File**
-	Indicate the path to the source file
+	Indicate the path to the source file.
 
 
 
