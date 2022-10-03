@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Indicate the instance name for the selected document
+	Indicate the instance name for the selected document.
 
 **Result**
-	Indicate the variable to receive the result
+	Indicate the variable to receive the result.
 
 
 
