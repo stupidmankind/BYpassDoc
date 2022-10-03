@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Source Folder**
-	Indicate the path to folder ex. C:\\temp\\myfolder
+	Indicate the path to folder, e.g., C:\\temp\\myfolder.
 
 **Variable Name**
-	Enter variable name to assign
+	Indicate variable name to assign.
 
 
 
