@@ -12,7 +12,7 @@ This command allows embedding commands and will automatically move to the 'catch
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
