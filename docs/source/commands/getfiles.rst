@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Source Folder**
-	Indicate the path to folder. This command list all files inside the folder ex. C:\\temp\\myfolder
+	Indicate the path to folder. This command list all files inside the folder, e.g., C:\\temp\\myfolder.
 
 **Exclude Files**
-	Indicate the excluded files in the source folder. ex. desktop.ini,\*.pdf
+	Indicate the excluded files in the source folder. e.g., desktop.ini,\*.pdf.
 
 **Variable Name**
-	Enter variable name to assign
+	Indicate variable name to assign.
 
 
 
