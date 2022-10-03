@@ -8,11 +8,11 @@ Error Handling Commands
 Description
 -----------
 
-This command allows you to throw an exception error. Use this command when you want to throw an exception error
+This command allows you to throw an exception error. Use this command when you want to throw an exception error.
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
