@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Zip File**
-	Indicate the destination file (ex. C:\\temp\\myzip\\myzip.zip
+	Indicate the destination file, e.g., C:\\temp\\myzip\\myzip.zip.
 
 **Uncompress Format**
-	Indicate the type of archive file
+	Indicate the type of archive file.
 
 **Targe Directory**
-	Indicate the directory where the extraction files should be saved
+	Indicate the directory where the extraction files should be saved.
 
 
 
