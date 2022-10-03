@@ -12,7 +12,7 @@ Command that groups multiple actions. Use this command when you want to group mu
 
 Parameters
 ----------
-
+	Command without parameter.
 
 
 Returned Value
