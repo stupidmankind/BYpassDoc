@@ -14,19 +14,19 @@ Parameters
 ----------
 
 **Operation**
-	Indicate whether to move or copy the file
+	Indicate whether to move or copy the file.
 
 **Source File Path**
-	Enter the path to the source file
+	Indicate the path to the source file.
 
 **Destination File Path**
-	Enter the path to the destination folder
+	Indicate the path to the destination folder.
 
 **Create Folder**
-	Create folder if destination does not exist
+	Create folder if destination does not exist.
 
 **Delete Existing**
-	Delete file if it already exists
+	Delete file if it already exists.
 
 
 
