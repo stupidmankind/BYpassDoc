@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Source File Path**
-	Enter the path to the source file
+	Indicate the path to the source file.
 
 **Replace Existing**
-	Specify to replace if the file exist
+	Specify to replace if the file exist.
 
 **New Name**
-	Specify the new file name including the extension
+	Specify the new file name including the extension.
 
 
 
