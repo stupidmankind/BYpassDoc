@@ -8,13 +8,17 @@ Text File Commands
 Description
 -----------
 
-This command reads text data into a variable. Use this command when you want to read data from text files.
+This command reads text or variable to convert to datatable. The text should be separated into column using vertical line when text display in mono font e.g. Courier.
 
 Parameters
 ----------
 
 **Input Data**
+<<<<<<< HEAD
 	Select text or variable to convert to datatable. The text should be separated into column using vertical line when text display in mono font, e.g., Courier.
+=======
+	Select text or variable to convert to datatable. 
+>>>>>>> eb5d8a6eb7f0387ebd96ef466c89247aa3a5d3d4
 
 **DataTable Name**
 	Indicate the variable to receive the DataTable result.
@@ -33,6 +37,8 @@ Example Usage
 
 See Also
 --------
-	- :doc:`Convert Text(DataTable) <converttexttable>`
+	- :doc:`Read Text File <readtextfile>`
+	- :doc:`Write Text File <writetextfile>`
+	
 
 	
