@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Frame**
-	Specify Frame Name.
+	Specify frame name.
 
 **XPATH**
 	Specify which XPATH to look at.
 
 **Attribute**
-	Specify which Attribute to get. e.g. to get value '5' from <div class='cell fixed highlighted' data-value='5', this Attribute should be set to 'data-value'
+	Specify which Attribute to get, e.g., to get value '5' from <div class='cell fixed highlighted' data-value='5', this Attribute should be set to 'data-value'.
 
 **Output Text**
 	Specify output variable name.
