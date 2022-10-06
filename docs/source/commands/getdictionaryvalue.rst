@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Output Variable**
-	Enter the output variable that will be used later to traverse over the data
+	Enter the output variable that will be used later to traverse over the data.
 
 **Dictionary Name**
-	Input The Dictionary
+	Input The Dictionary.
 
 **Key**
-	Indicate a name of the key
+	Indicate a name of the key.
 
 
 
