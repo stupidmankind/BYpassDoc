@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Error Handling Action**
-	Select an action to take in the event an error occurs
+	Select an action to take in the event an error occurs.
 
 
 
