@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Please Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Browser Property**
 	Specify which page property to switch to.
