@@ -20,10 +20,10 @@ Parameters
 	A new row to be added. This parameter consists of two sub parameters.
 	
 	*Column* 
-		is the column name of the input DataTable as specified by **DataTable Name** parameter
+		The column name of the input DataTable as specified by **DataTable Name** parameter.
 	
 	*Data* 
-		is the data of corresponding column 
+		The data of corresponding column.
 	
 Returned Value
 --------------
