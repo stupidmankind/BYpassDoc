@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Frame**
-	Specify Frame Name.
+	Specify frame name.
 
 **XPATH**
 	Specify which XPATH to look at.
 
 **HTML Property**
-	Specify which Property to get. Leave it blank will automatically get it
+	Specify which Property to get. Leave it blank will automatically get it.
 
 **Output Text**
 	Specify output variable name.
