@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Key Name**
-	Indicate a name of the key to create
+	Indicate a name of the key to create.
 
 **Input**
-	Select a target variable or input value to upload
+	Select a target variable or input value to upload.
 
 
 
