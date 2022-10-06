@@ -14,19 +14,19 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Browser**
-	Select the browser
+	Select the browser.
 
 **Headless**
-	Open browser in background
+	Open browser in background.
 
 **Maximized**
-	Open browser in maximized window
+	Open browser in maximized window.
 
 **URL**
-	Please Enter the URL to navigate to
+	Enter the URL to navigate to.
 
 
 
