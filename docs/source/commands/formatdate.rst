@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Input**
-	Specify either text or a variable that contains a date or number requiring formatting (ex. {DateTime.Now}, 1/1/2000.
+	Specify either text or a variable that contains a date or number requiring formatting, e.g., {DateTime.Now}, 1/1/2000.
 
 **Input Date Format**
-	Set the input of date format, If this field is blank, BYpass will try to determine automatically e.g. MM/dd/yy, hh:mm
+	Set the input of date format, If this field is blank, BYpass will try to determine automatically, e.g., MM/dd/yy, hh:mm.
 
 **Format**
-	Specify the output string format of date value. e.g. MM/dd/yy, hh:mm. Refer to <a href=\"https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings\">here</a> for more information
+	Specify the output string format of date value, e.g., MM/dd/yy, hh:mm. Refer to <a href=\"https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings\">here</a> for more information.
 
 **Variable Name**
-	Enter variable name to receive output
+	Enter variable name to receive output.
 
 
 
