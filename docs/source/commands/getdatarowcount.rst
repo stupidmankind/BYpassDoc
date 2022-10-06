@@ -17,7 +17,7 @@ Parameters
 	Enter a existing DataTable to fet rows from.
 
 **Variable Name**
-	Enter variable name to receive output
+	Enter variable name to receive output.
 
 
 
