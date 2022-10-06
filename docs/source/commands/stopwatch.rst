@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Stop Watch Name**
-	Enter the instance name of the Stopwatch
+	Enter the instance name of the Stopwatch.
 
 **Stop Watch Action**
-	Enter the Stopwatch Action
+	Enter the Stopwatch Action.
 
 **Result**
 	Select the variable to receive the result. 
 
 **Format**
-	Specify if a specific string format is required. e.g. MM/dd/yy, hh:mm, etc. 
+	Specify if a specific string format is required, e.g. MM/dd/yy, hh:mm, etc. 
 
 
 
