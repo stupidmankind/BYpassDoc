@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Engine Speed**
-	Enter a specific amount of time in milliseconds (ex. to specify 8 seconds, one would enter 8000) or specify a variable containing a value.
+	Enter a specific amount of time in milliseconds, e.g., (to specify 8 seconds, one would enter 8000), or specify a variable containing a value.
 
 
 
