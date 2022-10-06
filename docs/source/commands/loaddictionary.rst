@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Dictionary Name**
-	Indicate Dictionary Name
+	Indicate Dictionary Name.
 
 **Excel File Path**
 	Enter or Select the path to the applicable file that should be loaded into the Dictionary.
 
 **Sheet Name**
-	Indicate the sheet name
+	Indicate the sheet name.
 
 **Key Column**
 	Indicate the key column name to create a Dictionary off of.
