@@ -47,13 +47,13 @@ Parameters
 	The Images to be added to the email message. For multiple images, use comma to separate, e.g., c:\\sales reports\\fy06q4.jpg,c:\\sales reports\\fy06q5.jpg.
 
 **Attachment**
-	The attachments to be added to the email message, e.g., c:sales reports\fy06q4.xlsx.
+	The attachments to be added to the email message, e.g., c:\\sales reports\\fy06q4.xlsx.
 
 **SSL**
-	Indicate if SSL should be used
+	Indicate if SSL should be used.
 
 **SSL Validation**
-	Indicate if SSL should be validated
+	Indicate if SSL should be validated.
 
 
 
