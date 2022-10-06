@@ -8,22 +8,22 @@ RegEx Commands
 Description
 -----------
 
-This command allows you to perform advanced string formatting using RegEx. Use this command when you want to perform an advanced RegEx extraction from a text or variable
+This command allows you to perform advanced string formatting using RegEx. Use this command when you want to perform an advanced RegEx extraction from a text or variable.
 
 Parameters
 ----------
 
 **Input**
-	Please supply the value or variable (ex. [vSomeVariable])
+	Supply the value or variable, e.g., [vSomeVariable].
 
 **RegEx**
-	Enter the RegEx extractor pattern that should be used to extract the text e.g. ^([\w\-]+)
+	Enter the RegEx extractor pattern that should be used to extract the text, e.g., ^([\w\-]+).
 
 **Matching Group Index**
-	Define the index of the result. The extractor will split multiple patterns found into multiple indexes.  Test which index is required to retrieve the value or create a better/more define extractor.
+	Define the index of the result. The extractor will split multiple patterns found into multiple indexes. Test which index is required to retrieve the value or create a better/more define extractor.
 
 **Result**
-	Indicate the variable to receive the result
+	Indicate the variable to receive the result.
 
 
 
