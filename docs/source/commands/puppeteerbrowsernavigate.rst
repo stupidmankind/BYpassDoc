@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **URL**
-	Please Enter the URL to navigate to
+	Enter the URL to navigate to.
 
 
 
