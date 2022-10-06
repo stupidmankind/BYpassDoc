@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Frame**
-	Specify Frame Name.
+	Specify frame name.
 
 **DataTable Input**
 	Specify input in datatable for mulitiple input.
