@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **URL**
-	Please Enter the URL to get content
+	Enter the URL to get content.
 
 **Method Type**
 	Specify method type.
@@ -29,7 +29,7 @@ Parameters
 	Specify output variable name.
 
 **Request Header**
-	Please Enter the request header attributes
+	Please Enter the request header attributes.
 
 
 
