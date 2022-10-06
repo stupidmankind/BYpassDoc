@@ -8,13 +8,13 @@ DataTable Commands
 Description
 -----------
 
-This command clear a DataTable. Use this command when you want to clear a new DataTable
+This command clear a DataTable. Use this command when you want to clear a new DataTable.
 
 Parameters
 ----------
 
 **Datatable Name**
-	Datatable name to clear
+	The DataTable object to be cleared of all data.
 
 
 
