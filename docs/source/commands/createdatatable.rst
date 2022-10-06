@@ -8,16 +8,16 @@ DataTable Commands
 Description
 -----------
 
-This command created a DataTable with the column names provided. Use this command when you want to create a new DataTable
+This command created a DataTable with the column names provided. Use this command when you want to create a new DataTable.
 
 Parameters
 ----------
 
 **Datatable Name**
-	Create a Datatable name
+	Create a Datatable name.
 
 **Column Names**
-	Enter the Column Names required for each column of data
+	Enter the Column Names required for each column of data.
 
 
 
