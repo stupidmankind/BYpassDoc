@@ -20,10 +20,10 @@ Parameters
 	Indicate output Datatable name you would like to save result.
 
 **Search Item**
-	Enter a tuple containing the column name and item you would like to filter by e.g. [ColumnName1] = 'Item1', [ColumnName1] like '%item%'
+	Enter a tuple containing the column name and item you would like to filter, e.g., [ColumnName1] = 'Item1', [ColumnName1] like '%item%'.
 
 **Sort Item**
-	Enter a tuple containing the column name and item you would like to Sorting by. e.g. [ColumnName1] DESC, [ColumnName1] ASC
+	Enter a tuple containing the column name and item you would like to Sorting, e.g., [ColumnName1] DESC, [ColumnName1] ASC.
 
 
 
