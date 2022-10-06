@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Time Out**
 	Enter the time out in milliseconds e.g. 30000 for 30 seconds, enter 0 to disable time out.
