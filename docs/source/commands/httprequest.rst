@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **URL**
-	Please Enter the URL that you want to collect data from
+	Enter the URL that you want to collect data from.
 
 **Execute as User**
 	Execute Request as the currently logged on user?
 
 **Variable Name**
-	Enter variable name to store result
+	Enter variable name to store result.
 
 
 
