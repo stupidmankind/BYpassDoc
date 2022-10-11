@@ -17,16 +17,16 @@ Parameters
 	Enter or Select the path to the source file.
 
 **Language**
-	Text Language to perform OCR
+	Text Language to perform OCR.
 
 **Variable Name**
-	Enter variable name to store OCR result
+	Enter variable name to store OCR result.
 
 **Preserve Structure**
-	Preserve Structure when performing OCR
+	Preserve structure when performing OCR.
 
 **PDF Output**
-	Path to save OCR result. The output filename will be the same as Source File e.g. {Folder.ScriptPath}
+	Path to save OCR result. The output filename will be the same as Source File, e.g., {Folder.ScriptPath}.
 
 
 
