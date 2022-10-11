@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Enter the instance name.
 
 **Close App**
-	Also close Application when finish
+	Also close Application when finish.
 
 
 
