@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Max Value**
-	Specify the maximum value. The generated number integer will less than this value
+	Specify the maximum value. The generated number integer will less than this value.
 
 **Variable Name**
-	Enter variable name to receive output
+	Enter variable name to receive output.
 
 
 
