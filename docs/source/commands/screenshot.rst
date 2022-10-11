@@ -17,7 +17,7 @@ Parameters
 	Input or Type the name of the window that you want to take a screenshot of.
 
 **Image Path**
-	Enter the path to save the image
+	Enter the path to save the image.
 
 
 
