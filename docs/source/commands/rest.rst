@@ -14,25 +14,25 @@ Parameters
 ----------
 
 **Base URL**
-	Enter the IP:Port (ex. 192.168.2.200:19312)
+	Enter the IP:Port, e.g., (192.168.2.200:19312).
 
 **End Point**
 	Define any API endpoint which contains the full URL.
 
 **API Method**
-	Select method type
+	Select method type.
 
 **Advanced Parameters**
-	Please Enter the advanced parameter attributes
+	Enter the advanced parameter attributes.
 
 **REST Parameters**
-	Please Enter the REST parameter attributes
+	Enter the REST parameter attributes.
 
 **Result**
-	Indicate the variable to receive the result
+	Indicate the variable to receive the result.
 
 **Request Format**
-	Select method type
+	Select method type.
 
 
 
