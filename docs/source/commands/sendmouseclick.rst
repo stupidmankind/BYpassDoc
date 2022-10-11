@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Mouse Click**
-	Indicate the type of click required
+	Indicate the type of click required.
 
 
 
