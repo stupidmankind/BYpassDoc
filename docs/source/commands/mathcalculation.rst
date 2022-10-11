@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Input Value**
-	Supply the input to be computed (ex. (2 + 1)
+	Supply the input to be computed, e.g., (2 + 1).
 
 **Thosand Separator**
-	Optional - Indicate Thousand Seperator. Typically a comma or a decimal point (period)
+	Optional - Indicate thousand seperator. Typically a comma or a decimal point (period).
 
 **Decimal Separator**
-	Optional - Indicate Decimal Seperator. Typically a comma or a decimal point (period)
+	Optional - Indicate decimal seperator. Typically a comma or a decimal point (period).
 
 **Variable Name**
-	Enter variable name to store result
+	Enter variable name to store result.
 
 
 
