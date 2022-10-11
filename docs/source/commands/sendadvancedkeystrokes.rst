@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Window Name**
-	Select the window that you want to activate
+	Select the window that you want to activate.
 
 **Define Parameters**
-	Please Enter the parameter attributes
+	Please Enter the parameter attributes.
 
 **KeyUp Default**
-	Return all keys to 'UP' position after execution
+	Return all keys to 'UP' position after execution.
 
 
 
