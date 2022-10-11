@@ -14,7 +14,7 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected web browser.
 
 **Frame**
 	Specify Frame Name.
@@ -23,7 +23,7 @@ Parameters
 	Specify which XPATH to look at.
 
 **Text**
-	Specify Text to type.
+	Specify text to type.
 
 **Encryption**
 	Indicate if the text in 'TextToSend' is Encrypted.
