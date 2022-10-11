@@ -17,16 +17,16 @@ Parameters
 	The image will be used as the image to be found on screen.
 
 **Offset X Coordinate**
-	Specify if an offset is required. 0 or 100. This will move the mouse X pixels to the right of the location of the image
+	Specify if an offset is required. 0 or 100. This will move the mouse X pixels to the right of the location of the image.
 
 **Offset Y Coordinate**
-	Specify if an offset is required. 0 or 100. This will move the mouse Y pixels down from the top of the location of the image
+	Specify if an offset is required. 0 or 100. This will move the mouse Y pixels down from the top of the location of the image.
 
 **Similarity**
-	Specify the similarity threshold between 0.0 - 1.0 to find the image
+	Specify the similarity threshold between 0.0 - 1.0 to find the image.
 
 **Actions**
-	Please indicate an action type if required
+	Please indicate an action type if required.
 
 
 
