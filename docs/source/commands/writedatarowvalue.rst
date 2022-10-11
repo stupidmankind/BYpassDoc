@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **DataTable Name**
-	Indicate the DataTable Name
+	Indicate the DataTable Name.
 
 **Row Index**
-	Select value Row index of DataTable
+	Select value Row index of DataTable.
 
 **Column Index**
-	Enter a valid Column index of DataTable
+	Enter a valid Column index of DataTable.
 
 **Value**
-	Enter the value to update to the DataTable
+	Enter the value to update to the DataTable.
 
 
 
