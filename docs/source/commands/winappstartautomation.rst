@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected window application.
 
 **WinApp Location**
-	Enter the location of the windows application to automate
+	Enter the location of the windows application to automate.
 
 
 
