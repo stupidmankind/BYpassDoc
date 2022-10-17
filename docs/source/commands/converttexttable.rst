@@ -14,14 +14,10 @@ Parameters
 ----------
 
 **Input Data**
-<<<<<<< HEAD
-	Select text or variable to convert to datatable. The text should be separated into column using vertical line when text display in mono font, e.g., Courier.
-=======
 	Select text or variable to convert to datatable. 
->>>>>>> eb5d8a6eb7f0387ebd96ef466c89247aa3a5d3d4
 
 **DataTable Name**
-	Indicate the variable to receive the DataTable result.
+	Indicate the variable to receive the DataTable result
 
 
 
