@@ -3,7 +3,7 @@ Layout
 
 BYpass Developer Tool consists of four main panes
 
-.. image:: images/layout_1.png
+.. image:: images/layout_11.png
   :width: 800
   :alt: BYpass Editor Layout
 
