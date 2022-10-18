@@ -11,6 +11,7 @@ BYpass Developer Tool consists of four main panes
 	
 	- The :doc:`commandswindow` is where the commands are listed
 	- The :doc:`watchwindow` for deeper look during script execution
+	- The :doc:`ProjectWindow` for view the contents of the current project
 	
 * **Middle pane:**
 
