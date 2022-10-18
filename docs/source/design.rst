@@ -11,3 +11,4 @@ Design
 	watchwindow
 	outputwindow
 	executionwindow
+	ProjectWindow
