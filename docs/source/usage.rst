@@ -8,3 +8,4 @@ This section explains the usages on BYpass. Use :doc:`settings` to configure how
 	buildflow
 	debug
 	updating
+	tool
