@@ -1,5 +1,5 @@
 Convert Text(DataTable)
-==============
+=======================
 
 Category
 --------
@@ -17,7 +17,7 @@ Parameters
 	Select text or variable to convert to datatable. 
 
 **DataTable Name**
-	Indicate the variable to receive the DataTable result
+	Indicate the variable to receive the DataTable result.
 
 
 
