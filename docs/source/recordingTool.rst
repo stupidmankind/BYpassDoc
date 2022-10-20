@@ -28,4 +28,26 @@ Manually record actions, such as:
   - Step 5: In the application, Press **Ctrl** and click selector, A pop-up window is displayed.
   - Step 6: Press **Stop**. You exit the recording view and the saved project is displayed in the new sequence.
 
+**Automatically Generated Activities**
+
+  **Click** - generated when you press **Ctrl** and click a button.
+
+        .. image:: images/Record_3.png
+          :width: 200
+          :alt: Click Recorder
+
+  **Type Into** - generated when you press **Ctrl** and click text field, typing into a text field.
+
+        .. image:: images/Record_2.png
+          :width: 200
+          :alt: Type Into Recorder
+
+  **Select Item** - generated when you select an item from a drop-down list or combo box and press **Ctrl** and click item.
+
+  **Check** - generated when you press **Ctrl** and click a radio button or check box is clicked.
+
+        .. image:: images/Record_3.png
+          :width: 200
+          :alt: Click Recorder
+
 
