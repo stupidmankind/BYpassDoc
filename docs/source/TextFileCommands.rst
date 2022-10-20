@@ -1,7 +1,7 @@
 Text File Commands
 ==================
 
-.. 	toctree::
+..	toctree::
 	:titlesonly:
 
     Convert Text(DataTable) <commands/converttexttable>
