@@ -1,7 +1,7 @@
 Tools
 =====
 
-The tools for help you to use BYpass.   
+The tools for use in BYpass.
 	
 .. 	toctree::
 	
