@@ -11,9 +11,9 @@ Copy and paste files from File Explorer directly into the Project panel. The sam
 
 **Option**
 
-- Open project: Opens the project's location on the machine by double-click the ".byp" file format. The project will display related files hierarchically.
-- Project Settings: Opens the Project Settings window for processes or libraries.
-- Refresh: Refreshes the project.
-- Encrypt Project: The Encrypting Project file contains sensitive information one may want to secure. It is possible to encrypt sections in the project which can be decrypted only by Bypass robot.
-- Close Project : Close the Project.
+- **Open project**: Opens the project's location on the machine by double-click the ".byp" file format. The project will display related files hierarchically.
+- **Project Settings**: Opens the Project Settings window for processes or libraries.
+- **Refresh**: Refreshes the project.
+- **Encrypt Project**: The Encrypting Project file contains sensitive information one may want to secure. It is possible to encrypt sections in the project which can be decrypted only by Bypass robot, e.g., you have to protect sensitive information like password or personal identity, This custom command will help to encrypt such sensitive information.
+- **Close Project**: Close the Project.
 
