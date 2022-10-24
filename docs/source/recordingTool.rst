@@ -23,10 +23,9 @@ Manually record actions, such as:
 
   - Step 1: In the **Tools** tab, select **Record**.
   - Step 2: Select application in **Available Application** or Choose application in **Custom Application**.
-  - Step 3: Open application.
-  - Step 4: In the **Screen Recorder**, click Start. The automatic recording process starts.
-  - Step 5: In the application, Press **Ctrl** and click selector, A pop-up window is displayed.
-  - Step 6: Press **Stop**. You exit the recording view and the saved project is displayed in the new sequence.
+  - Step 3: In the **Screen Recorder**, click Start. The automatic recording process starts.
+  - Step 4: In the application, Point mouse, Press **Ctrl** and click selector, A pop-up window is displayed.
+  - Step 5: Press **Stop**. You exit the recording view and the saved project is displayed in the new sequence.
 
 **Automatically Generated Activities**
 
@@ -36,7 +35,7 @@ Manually record actions, such as:
           :width: 200
           :alt: Click Recorder
 
-  **Type Into** - generated when you press **Ctrl** and click text field, typing into a text field.
+  **Type Into** - generated when you press **Ctrl** and click input box, typing into a text field.
 
         .. image:: images/Record_2.png
           :width: 200
