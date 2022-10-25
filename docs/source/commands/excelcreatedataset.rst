@@ -14,16 +14,16 @@ Parameters
 ----------
 
 **Datatable Name**
-	Indicate Datatable name to create
+	Indicate Datatable name to create.
 
 **Excel File Path**
-	Enter or Select the path to the Excel file
+	Enter or Select the path to the Excel file.
 
 **Sheet Name**
-	Indicate the sheet name within the Excel file
+	Indicate the sheet name within the Excel file.
 
 **Header Row**
-	Indicate if the sheet has header row 
+	Indicate if the sheet has header row.
 
 
 
