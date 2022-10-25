@@ -14,10 +14,10 @@ Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook.
 
 **Row Number**
-	Enter the number of the row that should be deleted. ex. 1, 5
+	Enter the number of the row that should be deleted, e.g., (1, 5).
 
 **Shift Upward**
 	Should the cells below shift upward after deletion?
