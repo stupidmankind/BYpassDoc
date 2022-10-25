@@ -8,13 +8,13 @@ Excel Commands
 Description
 -----------
 
-This command adds a new Excel Workbook. Use this command when you want to add a new workbook to an Excel Instance
+This command adds a new Excel Workbook. Use this command when you want to add a new workbook to an Excel Instance.
 
 Parameters
 ----------
 
 **Instance Name**
-	Enter the instance name
+	Indicate the instance name for the selected workbook.
 
 
 
