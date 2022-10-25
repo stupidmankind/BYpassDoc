@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Source Instance**
-	Enter the source instance name
+	Enter the source instance name.
 
 **Target Instance**
-	Enter the target instance name
+	Enter the target instance name.
 
 **Sheet Name**
-	Enter the sheet name
+	Enter the sheet name.
 
 
 
