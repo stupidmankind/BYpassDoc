@@ -14,13 +14,13 @@ Parameters
 ----------
 
 **Instance Name**
-	Indicate the instance name for the selected workbook
+	Indicate the instance name for the selected workbook.
 
 **Sheet Name**
-	Indicate the name of the sheet within the Workbook to activate
+	Indicate the name of the sheet within the Workbook to activate.
 
 **Row**
-	Enter the row to set ex. [\"Hello\",\"World\"]
+	Enter the row to set, e.g., [\"Hello\",\"World\"].
 
 
 
