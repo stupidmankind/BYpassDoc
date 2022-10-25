@@ -8,16 +8,16 @@ Excel Commands
 Description
 -----------
 
-This command adds a new Excel Worksheet. Use this command when you want to add a new worksheet to an Excel Instance
+This command adds a new Excel Worksheet. Use this command when you want to add a new worksheet to an Excel Instance.
 
 Parameters
 ----------
 
 **Instance Name**
-	Indicate the instance name for the selected workbook
+	Indicate the instance name for the selected workbook.
 
 **Sheet Name**
-	Indicate the name of the sheet to add  
+	Indicate the name of the sheet to add.
 
 
 
