@@ -1,10 +1,10 @@
 Project Settings
 ================
 
-The package manager functionality enables you to download activity packages, libraries and others, view the ones already installed for your project and update them, as well as add and remove your own. It shows the list of available packages per feed and the list of dependencies per current project.
+The project settings functionality enables you to download activity packages, libraries and others, view the ones already installed for your project and update them, as well as add and remove your own. It shows the list of available packages per feed and the list of dependencies per current project.
 
 .. image:: images/settingPackage_1.png
-  :width: 300
+  :width: 500
   :alt: Setting Package
 
 **Installing Packages**
