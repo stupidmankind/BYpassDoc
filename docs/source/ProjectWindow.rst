@@ -19,4 +19,4 @@ Copy and paste files from File Explorer directly into the Project panel. The sam
 
 .. 	toctree::
 	
-	recordingTool
+	ProjectSettings
