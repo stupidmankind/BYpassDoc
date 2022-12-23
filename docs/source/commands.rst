@@ -4,6 +4,7 @@ Command References
 .. 	toctree::
 	:titlesonly:
 
+	Active Directory Commands <ActiveDirectoryCommands>
 	API Commands <APICommands>
 	CSV File Commands <CSVFileCommands>
 	Data Commands <DataCommands>
