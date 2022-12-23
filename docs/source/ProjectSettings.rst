@@ -9,10 +9,10 @@ The project settings functionality enables you to download activity packages, li
 
 **Installing Packages**
 
-  - Step 1: In the Project Settings window select the Packages category. This opens a list of all packages gathered from your Byrpa feeds.
-  - Step 2: Locate the package you want to install.You can scroll down the list to find the package or search for the package by typing part of its name in the search bar.
+  - Step 1: In the **Project Settings** window select the Packages category. This opens a list of all packages gathered from your **BYpass** feeds.
+  - Step 2: Locate the package you want to install. You can scroll down the list to find the package or search for the package by typing part of its name in the search bar.
   - Step 3: Select an activity package to view its description, version, dependencies, the project URL and the date when it was published.
-  - Step 4: Click on the drop-down list next to Version to pick a version of the package.
+  - Step 4: Click on the drop-down list next to Version to pick a version or update Version of the package. 
   - Step 5: Click on the Install button. 
   - Step 6: Click Save to install the packages or update the versions.
 
