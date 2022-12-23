@@ -17,3 +17,6 @@ Copy and paste files from File Explorer directly into the Project panel. The sam
 - **Encrypt Project**: The Encrypting Project file contains sensitive information one may want to secure. It is possible to encrypt sections in the project which can be decrypted only by Bypass robot, e.g., you have to protect sensitive information like password or personal identity, This custom command will help to encrypt such sensitive information.
 - **Close Project**: Close the Project.
 
+.. 	toctree::
+	
+	recordingTool
