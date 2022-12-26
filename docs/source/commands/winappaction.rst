@@ -8,7 +8,7 @@ WinApp Automation Commands
 Description
 -----------
 
-Perform WinApp Action.
+Perform WinApp Action. Use this command when you want to automate Window Application.
 
 Parameters
 ----------

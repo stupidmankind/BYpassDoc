@@ -1,7 +1,7 @@
 Prerequisite
 ============
 
-Software and Hardware requirements for BYpass
+BYpass can be installed on Physical Server or Virtual Machine. Here are the Software and Hardware requirements for BYpass.
 
 Software: 
 	+-----------------+---------------------------------------------------+

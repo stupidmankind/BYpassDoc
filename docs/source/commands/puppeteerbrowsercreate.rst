@@ -8,7 +8,7 @@ Web Browser Commands
 Description
 -----------
 
-This command allows you to create a new web browser session.
+This command allows you to create a new web browser session. This command supports Microsoft Edge, Chrome and Firefox.
 
 Parameters
 ----------
