@@ -8,7 +8,7 @@ Invoke Code Commands
 Description
 -----------
 
-This command allows you to create own csharp function. Use this command when you want to modify the value of variables. You can even use variables to modify other variables.
+This command allows you to create own csharp function. Use this command when you want perform activity beyond BYpass standard commands using low level coding on C#. For example, you can use this command to process XML documents.
 
 Parameters
 ----------
