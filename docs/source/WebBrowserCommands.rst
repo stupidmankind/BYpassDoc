@@ -4,6 +4,8 @@ Web Browser Commands
 .. 	toctree::
 	:titlesonly:
 
+	Browser Invoke Javascript Code <commands/puppeteerbrowserjavascriptinvokecode>
+	Browser Save to PDF <commands/puppeteerbrowsersavetopdf>
 	PPT Browser Check Web Alive <commands/puppeteerbrowsercheckwebalive>
 	PPT Browser Click <commands/puppeteerbrowserclick>
 	PPT Browser Close <commands/puppeteerbrowserclosebrowser>

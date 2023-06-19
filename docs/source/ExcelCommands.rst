@@ -13,7 +13,7 @@ Excel Commands
 	Delete Cell <commands/exceldeletecell>
 	Delete Row <commands/exceldeleterow>
 	Excel Create Datatable <commands/excelcreatedataset>
-	Export to PDF <commands/excelexporttopdf>
+	Excel Export To PDF <commands/excelexporttopdf>
 	Get Cell <commands/excelgetcell>
 	Get Cell Style <commands/excelgetcellstyle>
 	Get Last Column Index <commands/excelgetlastcolumn>

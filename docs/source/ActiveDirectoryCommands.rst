@@ -2,7 +2,7 @@ Active Directory Commands
 =========================
 
 .. 	toctree::
-    :titlesonly:
+	:titlesonly:
 
-    AD Create Connection <commands/adcreateconnection>
+	AD Create Connection <commands/adcreateconnection>
 	AD Get Property <commands/adgetproperty>

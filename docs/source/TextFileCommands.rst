@@ -2,8 +2,8 @@ Text File Commands
 ==================
 
 .. 	toctree::
-    :titlesonly:
+	:titlesonly:
 
-    Convert Text(DataTable) <commands/converttexttable>
+	Convert Text(DataTable) <commands/texttodatatable>
 	Read Text File <commands/readtextfile>
 	Write Text File <commands/writetextfile>

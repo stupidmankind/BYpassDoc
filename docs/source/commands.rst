@@ -13,7 +13,6 @@ Command References
 	DateTime Commands <DateTimeCommands>
 	Dictionary Commands <DictionaryCommands>
 	Email Commands <EmailCommands>
-	Engine Commands <EngineCommands>
 	Error Handling Commands <ErrorHandlingCommands>
 	Excel Commands <ExcelCommands>
 	File Operation Commands <FileOperationCommands>
@@ -24,6 +23,8 @@ Command References
 	Image Commands <ImageCommands>
 	Input Commands <InputCommands>
 	Invoke Code Commands <InvokeCodeCommands>
+	JSon Commands <JSonCommands>
+	Line API Command <LineAPICommand>
 	List Commands <ListCommands>
 	Loop Commands <LoopCommands>
 	Misc Commands <MiscCommands>
@@ -32,7 +33,6 @@ Command References
 	PDF Commands <PDFCommands>
 	Programs/Process Commands <ProgramsProcessCommands>
 	RegEx Commands <RegExCommands>
-	Remote Commands <RemoteCommands>
 	SAP Commands <SAPCommands>
 	String Commands <StringCommands>
 	System Commands <SystemCommands>
