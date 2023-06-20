@@ -19,14 +19,11 @@ Parameters
 **SQL Command**
 	Please Enter the SQL Command
 
-**PostgreSQL Result**
-	Please Enter the DataTable name to save the result
-
-
-
 Returned Value
 --------------
-	[ReturnValue]
+
+**PostgreSQL Result**
+	DataTable name to save the result
 
 Example Usage
 -------------
